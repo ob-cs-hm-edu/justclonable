@@ -1,1 +1,3 @@
 Hier stehen Infos zum Installieren.
+
+Und hier stehen Infos zum Deinstallieren. 
